@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juls Nuque</h1>
 <h3 align="center">Blending creativity with code to build engaging digital experiences</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stilsi-dev" alt="stilsi-dev" /></a> </p>
-
 - 🔭 I’m currently working on **UAAP GameSence, a smart assistant designed to enhance how fans experience and understand UAAP games**
 
 - 🌱 Learning the world of data: **engineering, science, and analytics**
