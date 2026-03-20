@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juls Nuque</h1>
 <h3 align="center">Blending creativity with code to build engaging digital experiences</h3>
 
-- 🔭 I’m currently working on **UAAP GameSence, a smart assistant designed to enhance how fans experience and understand UAAP games**
+- 🔭 I’m currently working on **UAAP GameSense, a smart assistant designed to enhance how fans experience and understand UAAP games**
 
 - 🌱 Learning the world of data: **engineering, science, and analytics**
 
