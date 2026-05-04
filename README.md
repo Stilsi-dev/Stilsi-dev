@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juls Nuque</h1>
 <h3 align="center">Blending creativity with code to build engaging digital experiences</h3>
 
+---
+
 ## 💫 About Me:
-🔭 I’m currently working on **UAAP GameSense, a smart assistant designed to enhance how fans experience and understand UAAP games**<br>🌱 Learning the world of data: **engineering, science, and analytics**<br>📫 How to reach me **nuque.angelojulius@gmail.com**<br>
+
+
+🔭 Currently building **UAAP GameSense** — a smart assistant that enhances how fans understand games through real-time insights, analytics, and contextual information
+🌱 Continuously learning **data engineering, data science, and analytics**
+💡 Passionate about creating tools that transform raw data into **simple, engaging experiences**
+📫 Reach me at: **[nuque.angelojulius@gmail.com](mailto:nuque.angelojulius@gmail.com)**
 
 
 ## 🌐 Socials:
