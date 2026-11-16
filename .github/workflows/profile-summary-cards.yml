@@ -40,5 +40,7 @@ jobs:
           template: "- [$title]($url), $date $newline"
           date_format: "d mmm yyyy"
           enable_keepalive: false
+          tag_post_pre_newline: true
+          disable_html_encoding: true
           committer_username: "Angelo Julius Nuque"
           commit_message: "Update latest writing from nuque.dev"
