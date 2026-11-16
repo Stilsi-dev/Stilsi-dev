@@ -1,0 +1,27 @@
+# Rebuilds the profile stats cards once a day and commits them to profile-summary-card-output/,
+# so the README never depends on a third-party image service being up.
+# Uses the repo's own GITHUB_TOKEN: public activity only, no personal token needed.
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "17 21 * * *" # daily, 05:17 Manila time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          THEME: transparent
+          NAME: Angelo Julius Nuque

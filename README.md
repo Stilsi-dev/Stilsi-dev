@@ -16,6 +16,19 @@ I turn complex needs into purposeful technology, building practical systems for 
 - Building: the [LGU Health Spending Lens](https://nuque.dev/lab/lgu-health-lens/overview)
 - Learning: data engineering
 
+## Activity
+
+<p>
+  <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="My GitHub contributions over time" />
+</p>
+<p>
+  <img src="profile-summary-card-output/transparent/3-stats.svg" alt="My GitHub stats" height="170" />
+  <img src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="The languages I commit in most" height="170" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Stilsi-dev&theme=transparent&hide_border=true" alt="My GitHub contribution streak" />
+</p>
+
 ## Tools I use
 
 - **Languages:** Python, SQL, TypeScript, JavaScript, Java, Kotlin
