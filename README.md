@@ -13,7 +13,8 @@ I turn complex needs into purposeful technology, building practical systems for 
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [The checks caught my mistakes. They couldn&#39;t catch my priorities.](https://nuque.dev/writing/notes/the-checks-caught-my-mistakes), 15 Nov 2026 
+- [You Don&#39;t Have to Write the Code to Be the Reason It Works](https://nuque.dev/writing/notes/the-reason-it-works), 9 Nov 2026 
 <!-- BLOG-POST-LIST:END -->
 
 More at [nuque.dev/writing](https://nuque.dev/writing).
