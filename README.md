@@ -1,4 +1,4 @@
-# Hi, I'm Angelo Julius Nuque (Juls)
+# Hi, I'm Angelo Julius Nuque
 
 I turn complex needs into purposeful technology, building practical systems for organizations and the people they serve. Associate Solutions Developer at Indra Philippines, based in Metro Manila.
 
