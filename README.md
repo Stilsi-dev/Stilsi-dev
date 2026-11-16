@@ -11,6 +11,13 @@ I turn complex needs into purposeful technology, building practical systems for 
 - **[LGU Health Spending Lens](https://nuque.dev/lab/lgu-health-lens/overview)**: joins PIDS health spending with DBM COMPASS data into one brief per LGU, with open data and a read-only API.
 - **[Memory Forensics Analyzer](https://github.com/Stilsi-dev/memoryforensics)**: give it a snapshot of a Windows computer's memory, and it finds programs that look tampered with. [Write-up](https://nuque.dev/lab/memory-forensics-analyzer)
 
+## Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+More at [nuque.dev/writing](https://nuque.dev/writing).
+
 ## Now
 
 - Building: the [LGU Health Spending Lens](https://nuque.dev/lab/lgu-health-lens/overview)
