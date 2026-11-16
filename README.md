@@ -1,6 +1,6 @@
 # Hi, I'm Angelo Julius Nuque
 
-I turn complex needs into purposeful technology, building practical systems for organizations and the people they serve. Associate Solutions Developer at Indra Philippines, based in Metro Manila.
+I turn complex needs into purposeful technology, building practical systems for organizations and the people they serve. Solutions developer based in Metro Manila.
 
 [nuque.dev](https://nuque.dev) · [LinkedIn](https://linkedin.com/in/julsnuque) · angelo@nuque.dev
 
@@ -18,7 +18,7 @@ I turn complex needs into purposeful technology, building practical systems for 
 
 ## Tools I use
 
-**Languages:** Python, SQL, TypeScript, JavaScript, Java, Kotlin
-**Build:** React, Next.js, Node.js, FastAPI, Flask, Django, Astro, Tailwind CSS
-**Data:** PostgreSQL, MySQL, Supabase, Power BI, SAP Analytics Cloud
-**Cloud:** AWS, Google Cloud, Cloudflare Workers
+- **Languages:** Python, SQL, TypeScript, JavaScript, Java, Kotlin
+- **Build:** React, Next.js, Node.js, FastAPI, Flask, Django, Astro, Tailwind CSS
+- **Data:** PostgreSQL, MySQL, Supabase, Power BI, SAP Analytics Cloud
+- **Cloud:** AWS, Google Cloud, Cloudflare Workers
